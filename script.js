@@ -26,7 +26,7 @@ const drinks = [{
     {
         title: "Claude Chocolate",
         description: "Indulge in the comforting warmth of our rich Claude chocolate. Made with premium cocoa and steamed milk, it's a delightful treat for any chocolate lover. Perfect for cozying up on chilly days or satisfying your sweet cravings.",
-        url: `${img_url}assets/imgs/artificial-intelligence-7889375_1.avif",
+        url: `${img_url}assets/imgs/artificial-intelligence-7889375_1.avif`,
         tags: ["Claude", "AZURE"]
     },
     {
